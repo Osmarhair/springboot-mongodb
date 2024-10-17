@@ -18,7 +18,7 @@ public class SpringbootmongodbApplication {
 
 	@RequestMapping("/hello")
 	public String Hello() {
-		return "olá";
+		return "olá 2";
 	}
 
 }
